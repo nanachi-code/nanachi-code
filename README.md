@@ -1,6 +1,6 @@
 # Hello :wave:, I'm Nanachi!
 
-Currently a first year Applied Math student at University of Transport and Communications in Vietnam. Worked as a full-stack developer for 2 years before decided to enroll in university. 
+Applied Math student at University of Transport and Communications in Vietnam. 3 years exp of full-stack developer. 
 
 ## My projects
 - [osbjs](https://github.com/osbjs): osu! storboarding ecosystem.
