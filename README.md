@@ -23,5 +23,5 @@ Applied Math student at University of Transport and Communications in Vietnam. 3
 
 
 ## Contact
-![Discord](https://img.shields.io/badge/Nanachi%231381-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/nanachi%231381-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)
 ![Email](https://img.shields.io/badge/dinhvu2509@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)
