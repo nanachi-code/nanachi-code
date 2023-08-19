@@ -2,9 +2,6 @@
 
 Applied Math student at University of Transport and Communications in Vietnam. 4 years exp of full-stack developer. 
 
-## My projects
-- [osbjs](https://github.com/osbjs): osu! storboarding ecosystem.
-
 ## Tech stack I have worked with
 - Language: 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
